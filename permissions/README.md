@@ -14,3 +14,4 @@ Shell scripts covering Linux permissions, users, and privilege management.
 - 9-John_Doe: sets the mode of hello to rwxr-x-wx (753)
 - 10-mirror_permissions: sets the mode of hello to match the mode of olleh
 - 11-directories_permissions: adds execute permission for owner, group, and others to all subdirectories of the current directory, without changing regular files
+- 12-directory_permissions: creates a directory called my_dir with permissions 751
