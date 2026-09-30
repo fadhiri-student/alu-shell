@@ -11,3 +11,4 @@ Shell scripts covering Linux permissions, users, and privilege management.
 - 6-multiple_permissions: adds execute permission to the owner and group owner, and read permission to other users, on the file hello
 - 7-everybody: adds execute permission to the owner, group owner, and other users on the file hello
 - 8-James_Bond: sets permissions on hello to no access for owner and group, full access for other users
+- 9-John_Doe: sets the mode of hello to rwxr-x-wx (753)
