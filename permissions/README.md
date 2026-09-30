@@ -10,3 +10,4 @@ Shell scripts covering Linux permissions, users, and privilege management.
 - 5-execute: adds execute permission to the owner of the file hello
 - 6-multiple_permissions: adds execute permission to the owner and group owner, and read permission to other users, on the file hello
 - 7-everybody: adds execute permission to the owner, group owner, and other users on the file hello
+- 8-James_Bond: sets permissions on hello to no access for owner and group, full access for other users
