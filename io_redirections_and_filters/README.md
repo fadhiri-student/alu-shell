@@ -27,3 +27,4 @@ This directory contains shell scripts covering I/O redirections, filters, and sp
 - 22-users_and_homes: displays all users and their home directories, sorted by users, based on the /etc/passwd file
 - 23-empty_casks: finds all empty files and directories in the current directory and all sub-directories, displaying only their names, hidden ones included
 - 24-gifs: lists all the regular files with a .gif extension in the current directory and all its sub-directories, hidden ones included, without their extensions, sorted by byte values and case-insensitive
+- 25-acrostic: decodes acrostics that use the first letter of each line of the standard input
