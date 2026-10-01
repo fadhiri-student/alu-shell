@@ -6,3 +6,4 @@ This directory contains shell scripts covering aliases, environment variables, i
 - 1-hello_you: prints hello followed by the name of the current Linux user
 - 2-path: adds /action to the end of the PATH
 - 3-paths: counts the number of directories in the PATH
+- 5-local_variables: lists all local variables, environment variables and functions
