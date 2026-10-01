@@ -16,3 +16,4 @@ This directory contains shell scripts covering aliases, environment variables, i
 - 12-combinations: prints all possible combinations of two lowercase letters, in alphabetical order, except oo
 - 13-print_float: prints the number stored in the environment variable NUM with two decimal places
 - 14-decimal_to_hexadecimal: converts the base 10 number stored in the environment variable DECIMAL to base 16 and displays it
+- 15-rot13: encodes and decodes the standard input using the rot13 encryption
