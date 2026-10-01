@@ -24,3 +24,4 @@ This directory contains shell scripts covering I/O redirections, filters, and sp
 - 19-AZ: replaces all characters A and c from the standard input with Z and e respectively
 - 20-hiago: removes all letters c and C from the standard input
 - 21-reverse: reverses its standard input
+- 22-users_and_homes: displays all users and their home directories, sorted by users, based on the /etc/passwd file
