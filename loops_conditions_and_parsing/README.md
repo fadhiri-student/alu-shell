@@ -13,3 +13,4 @@ This directory contains Bash scripts covering loops, conditions and parsing.
 - 9-to_file_or_not_to_file: gives information about the school file: whether it exists, is empty, and is a regular file, using if and else
 - 10-fizzbuzz: displays numbers from 1 to 100, with FizzBuzz for multiples of 3 and 5, Fizz for multiples of 3 and Buzz for multiples of 5
 - 12-tell_the_story_of_passwd: tells a story based on the content of /etc/passwd, using a while loop and IFS
+- 13-lets_parse_apache_logs: displays the visitor IP and the HTTP status code from the Apache log file apache-access.log, using awk
