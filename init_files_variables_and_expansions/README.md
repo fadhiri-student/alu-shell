@@ -12,3 +12,4 @@ This directory contains shell scripts covering aliases, environment variables, i
 - 8-true_knowledge: prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
 - 9-divide_and_rule: prints the result of POWER divided by DIVIDE, both being environment variables
 - 10-love_exponent_breath: displays the result of BREATH to the power LOVE, both being environment variables
+- 11-binary_to_decimal: converts the base 2 number stored in the environment variable BINARY to base 10 and displays it
