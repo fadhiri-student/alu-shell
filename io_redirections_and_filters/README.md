@@ -12,3 +12,4 @@ This directory contains shell scripts covering I/O redirections, filters, and sp
 - 7-file: creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing "Best School" followed by a new line
 - 8-cwd_state: writes the result of ls -la into the file ls_cwd_content, overwriting it if it exists or creating it if not
 - 9-duplicate_last_line: duplicates the last line of the file iacta
+- 10-no_more_js: deletes all the regular files with a .js extension in the current directory and all its subfolders
