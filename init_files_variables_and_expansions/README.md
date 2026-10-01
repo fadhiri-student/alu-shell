@@ -14,3 +14,4 @@ This directory contains shell scripts covering aliases, environment variables, i
 - 10-love_exponent_breath: displays the result of BREATH to the power LOVE, both being environment variables
 - 11-binary_to_decimal: converts the base 2 number stored in the environment variable BINARY to base 10 and displays it
 - 12-combinations: prints all possible combinations of two lowercase letters, in alphabetical order, except oo
+- 13-print_float: prints the number stored in the environment variable NUM with two decimal places
