@@ -14,3 +14,4 @@ This directory contains Bash scripts covering loops, conditions and parsing.
 - 10-fizzbuzz: displays numbers from 1 to 100, with FizzBuzz for multiples of 3 and 5, Fizz for multiples of 3 and Buzz for multiples of 5
 - 12-tell_the_story_of_passwd: tells a story based on the content of /etc/passwd, using a while loop and IFS
 - 13-lets_parse_apache_logs: displays the visitor IP and the HTTP status code from the Apache log file apache-access.log, using awk
+- 14-dig_the-data: groups the visitors of the Apache log file by IP and HTTP status code and displays the number of occurrences, from the greatest to the lowest, using awk
